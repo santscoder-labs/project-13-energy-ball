@@ -32,9 +32,3 @@ Orbiting particles, a glowing red core, and a minimal automatic motion — a fas
 
 ## 📹 Vídeo / Video  
 https://youtube.com/@santscoder404
-
----
-
-<p align="center">
-  <img src="https://github.com/santscoder-labs/assets/blob/main/error.png" width="100%" />
-</p>
